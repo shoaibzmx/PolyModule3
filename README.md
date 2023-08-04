@@ -1,7 +1,7 @@
 # Circuit Deployment on Polygon
 This repository contains the imlementation of the given circuit diagram using circom and also demonstrates 
 how to deploy it on Polygon Mumbai Testnet
-!(https://authoring.metacrafters.io/assets/cms/Assessment_b05f6ed658.png?updated_at=2023-02-24T00:00:37.278Z)
+![PolyModule3](https://authoring.metacrafters.io/assets/cms/Assessment_b05f6ed658.png?updated_at=2023-02-24T00:00:37.278Z)
 
 ## Circuit Implementation
 
